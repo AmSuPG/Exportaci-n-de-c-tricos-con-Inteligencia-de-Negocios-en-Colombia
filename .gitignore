@@ -1,0 +1,40 @@
+# ------------------------------------------------------------------
+# El repositorio es PÚBLICO. Estas carpetas nunca se suben;
+# solo su README, para que la carpeta exista al clonar.
+# ------------------------------------------------------------------
+
+# Datos cuya licencia no permite publicarlos (microdatos DANE,
+# exportaciones de Scopus, etc.)
+datos/restringidos/*
+!datos/restringidos/README.md
+
+# PDFs de artículos: tienen derechos de autor
+referencias/pdf/*
+!referencias/pdf/README.md
+
+# ------------------------------------------------------------------
+# LaTeX: archivos que se generan al compilar
+# ------------------------------------------------------------------
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# ------------------------------------------------------------------
+# Python
+# ------------------------------------------------------------------
+__pycache__/
+*.pyc
+
+# ------------------------------------------------------------------
+# Sistema operativo y Office
+# ------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*

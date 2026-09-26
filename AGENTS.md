@@ -4,13 +4,15 @@ Artículo para la materia **Inteligencia de Negocios y Big Data**, Universidad D
 
 **Autores:** Ammi Susana Pineda Guzmán y Diego Felipe Barreto Rubiano.
 
-**Título:** Análisis del riesgo de la polilla perforadora *Gymnandrosoma aurantianum* en la exportación de cítricos colombianos mediante Inteligencia de Negocio.
+**Título:** Riesgo comercial de las exportaciones colombianas de cítricos ante el requisito fitosanitario europeo contra *Gymnandrosoma aurantianum*: un análisis por temporadas mediante Inteligencia de Negocio.
 
 ---
 
 ## La idea
 
-Analizar, con Inteligencia de Negocios, el riesgo que representa la polilla perforadora *Gymnandrosoma aurantianum* para la exportación de cítricos colombianos.
+Analizar, con Inteligencia de Negocios, **el riesgo comercial** al que quedan expuestas las exportaciones colombianas de cítricos por el Reglamento de Ejecución (UE) 2026/826, que exige medidas contra *Gymnandrosoma aurantianum* a los cítricos de las Américas desde el 15 de octubre de 2026.
+
+**La plaga es contexto, no objeto de medición.** Explica por qué existe la norma y demuestra que el riesgo es real: la UE interceptó la plaga en naranjas de Colombia en marzo de 2021. No hay datos públicos de monitoreo de la plaga en Colombia, así que el artículo no debe prometer medir cuánta plaga hay ni dónde.
 
 **Delimitación:** el trabajo se limita a Inteligencia de Negocios. Así lo decidieron los autores desde el inicio.
 

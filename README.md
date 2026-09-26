@@ -1,6 +1,6 @@
 # Exportación de cítricos con Inteligencia de Negocios en Colombia
 
-**Análisis del riesgo de la polilla perforadora *Gymnandrosoma aurantianum* en la exportación de cítricos colombianos mediante Inteligencia de Negocio**
+**Riesgo comercial de las exportaciones colombianas de cítricos ante el requisito fitosanitario europeo contra *Gymnandrosoma aurantianum*: un análisis por temporadas mediante Inteligencia de Negocio**
 
 Artículo para la materia Inteligencia de Negocios y Big Data · Universidad Distrital Francisco José de Caldas · Ingeniería de Sistemas
 
